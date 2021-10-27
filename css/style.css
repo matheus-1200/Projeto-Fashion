@@ -60,6 +60,13 @@ nav li {
   float: left;
   text-align: center;
 }
+.card img {
+  width: 100%;
+}
+.card1,
+.card2 {
+  margin-right: 2%;
+}
 .title {
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -99,9 +106,11 @@ nav li {
 }
 
 footer {
-  background-color: black;
+  background-color: #0b171f;
   text-align: center;
   color: #555;
-  padding: 05px;
+  padding: 25px;
   margin-top: 30px;
+  letter-spacing: 5px;
+  font-size: 12px;
 }
